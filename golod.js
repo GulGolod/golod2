@@ -10,4 +10,4 @@
     }
   }
 
-  let player1 = new Player("Player 1", 100, 200);
+  let player1 = new Player("Player 1", 100, 200);//почему здесь 200 на 100?
